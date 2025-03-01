@@ -60,7 +60,6 @@ class TestCSVReading(unittest.TestCase):
         self.assertEqual(output_data, self.processor.data, "Output data should match processed data")
 
     # Refers to class itself (where output_file is defined). Deletes file after test to avoid traffic
-
     @classmethod
     def tearDownClass(cls):
         # Clean up the output file if needed
