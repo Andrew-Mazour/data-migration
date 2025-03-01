@@ -65,7 +65,6 @@ class TestCSVReading(unittest.TestCase):
         if os.path.exists(cls.output_file):
             os.remove(cls.output_file)
 
-
 class TestDataChanger(unittest.TestCase):
 
     def create_sample(self):
