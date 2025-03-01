@@ -107,6 +107,5 @@ class TestDataChanger(unittest.TestCase):
         if len(self.data[0]) > 10:  # Phone numbers on 10th index.
             self.assertEqual(self.data[0][-1], '1234567890', "Phone numbers should be modified correctly")
 
-
 if __name__ == "__main__":
     unittest.main()
