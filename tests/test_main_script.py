@@ -66,7 +66,6 @@ class TestCSVReading(unittest.TestCase):
             os.remove(cls.output_file)
 
 class TestDataChanger(unittest.TestCase):
-
     def create_sample(self):
         # Sample data for testing. Each function is tested on sample data.
         self.data = [
