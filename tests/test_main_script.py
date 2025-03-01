@@ -38,7 +38,7 @@ class TestCSVReading(unittest.TestCase):
         self.assertLess(len(self.processor.data), original_length + 3, "Empty rows have not been removed")
 
     def test_data_changes(self):
-        # Avoid index error by ensuring there are enough columns (my CSV had 11 columns or 10 indices).
+        # Avoid index error by ensuring there are enough columns (my CSV had 11 columns or 10 indices)
         for row in self.processor.data:
             if len(row) < 11:  # Make sure we have enough columns to avoid index errors
                 row.extend([''] * (11 - len(row)))
