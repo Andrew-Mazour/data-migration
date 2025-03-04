@@ -30,7 +30,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 **Clone the repository**:
 
--git clone https://github.com/yourusername/data-migration.git
+- git clone https://github.com/yourusername/data-migration.git
 cd data-migration
 
 Create a virtual environment (optional but recommended):
