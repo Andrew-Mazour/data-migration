@@ -35,7 +35,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 - Create a virtual environment (optional but recommended):
 
-python -m venv venv
+-python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 ## 🚀 Usage
