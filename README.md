@@ -33,7 +33,7 @@ This Python script processes CSV files by performing a series of data transforma
 - git clone https://github.com/yourusername/data-migration.git
 -cd data-migration
 
-Create a virtual environment (optional but recommended):
+-Create a virtual environment (optional but recommended):
 
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
