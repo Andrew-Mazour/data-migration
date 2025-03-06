@@ -40,7 +40,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 ## 🚀 Usage
 
--Place the CSV file to be processed in the project directory.
+- Place the CSV file to be processed in the project directory.
 
 Run the script:
 
