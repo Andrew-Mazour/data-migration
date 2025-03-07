@@ -42,7 +42,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 - Place the CSV file to be processed in the project directory.
 
-Run the script:
+-Run the script:
 
 python main_script.py input.csv output.csv
 
