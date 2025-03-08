@@ -44,7 +44,7 @@ This Python script processes CSV files by performing a series of data transforma
 
 - Run the script: python main_script.py input.csv output.csv
 
-Choose a sorting option when prompted.
+-Choose a sorting option when prompted.
 
 
 ## ⚠️ Disclaimer
