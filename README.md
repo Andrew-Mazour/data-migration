@@ -49,4 +49,4 @@ This Python script processes CSV files by performing a series of data transforma
 
 ## ⚠️ Disclaimer
 
--Ensure that input CSV files follow a consistent format to avoid processing errors.
+- Ensure that input CSV files follow a consistent format to avoid processing errors.
